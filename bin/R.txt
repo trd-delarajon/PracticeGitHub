@@ -538,6 +538,7 @@ int string abc_toolbar_collapse_description 0x7f0a0004
 int string action_settings 0x7f0a0013
 int string app_name 0x7f0a0011
 int string hello_world 0x7f0a0012
+int string hello_world7 0x7f0a0014
 int style AlertDialog_AppCompat 0x7f0b0040
 int style AlertDialog_AppCompat_Light 0x7f0b0041
 int style Animation_AppCompat_Dialog 0x7f0b0046

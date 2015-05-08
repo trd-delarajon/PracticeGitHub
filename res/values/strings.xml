@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">GitPractice</string>
-    <string name="hello_world">Hello Jomars</string>
+    <string name="hello_world">Hello Jomars!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
